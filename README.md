@@ -11,6 +11,4 @@ Notes:
 This app is recommended to run on iPhone 5s. 
 I did not try to make the app look right on other iOS screen sizes.
 
-Gif demo:
 
-![alt tag](ttps://github.com/ggpaue/tipCal/blob/master/tipCal.gif)
