@@ -3,6 +3,7 @@ Simple tip calculation program, implemented in Swift
 This is a tip calculation application for iOS submitted as the pre work requirement
 
 Required and optional stories completed:
+
 [x] TipViewController and SettingsViewController
 
 [x] Given a bill amount, calculate a tip and a total.
