@@ -1,5 +1,6 @@
 # tipCal
-Simple tip calculation program, implemented in Swift 
+Simple tip calculation program, implemented in Swift.
+
 This is a tip calculation application for iOS submitted as the pre work requirement
 
 Required and optional stories completed:
