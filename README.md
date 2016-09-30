@@ -15,6 +15,7 @@ Required and optional stories completed:
 
 [x] Display optional total splits for 1 ~ 12 people.
 
+
 Additional Feature:
 
 [x] Add a setting to choose the theme use for day or night.
